@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **rayanemsl/rayanemsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Titre 1 
+
+## Titre 3
+
+### Faire une liste
+
+- item 1
+- Item 2
+    - Item 2.1
+### Gras italique
+
+#### faire du code 
+
+pour mon projet structure player
+
+```c
+struct p{
+int x;
+int y;
+};
+```
+
+![chien](https://picsum.photos/seed/picsum/200/300)
+
+### Equation
+
+$$ e = mc^2 $$
